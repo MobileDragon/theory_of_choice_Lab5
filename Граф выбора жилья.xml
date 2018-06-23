@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <object end_id="26" id="3" start_id="1" text="Нет" text_x="663" text_y="299" type="1">XM</object>
+    <object end_id="2" id="5" start_id="1" text="Да" text_x="705" text_y="294" type="1">XM</object>
+    <object end_id="29" id="9" start_id="2" text="Да" text_x="749" text_y="414" type="1">XM</object>
+    <object end_id="28" id="10" start_id="2" text="Нет" text_x="698" text_y="415" type="1">XM</object>
+    <object end_id="4" id="11" start_id="7" text="Нет" text_x="424" text_y="301" type="1">XM</object>
+    <object end_id="13" id="12" start_id="7" text="Да" text_x="474" text_y="296" type="1">XM</object>
+    <object end_id="16" id="14" start_id="13" text="Нет" text_x="456" text_y="415" type="1">XM</object>
+    <object end_id="17" id="15" start_id="13" text="Да" text_x="517" text_y="418" type="1">XM</object>
+    <object end_id="25" id="20" start_id="18" text="Высокий" text_x="349" text_y="180" type="1">XM</object>
+    <object end_id="1" id="21" start_id="18" text="Средний" text_x="572" text_y="186" type="1">XM</object>
+    <object end_id="7" id="22" start_id="18" text="Отсуцтвует" text_x="430" text_y="177" type="1">XM</object>
+    <object height="49" id="1" pos_x="600" pos_y="209" text="Наличие автомобильной парковки?" type="2" width="167">XM</object>
+    <object height="50" id="2" pos_x="687" pos_y="330" text="Охраняемая стоянка?" type="2" width="81">XM</object>
+    <object height="40" id="4" pos_x="360" pos_y="341" text="Rostma" type="3" width="69">XM</object>
+    <object height="50" id="7" pos_x="392" pos_y="212" text="Выход в Интернет?" type="2" width="126">XM</object>
+    <object height="59" id="13" pos_x="445" pos_y="330" text="Наличие автомобильной парковки?" type="2" width="99">XM</object>
+    <object height="48" id="16" pos_x="417" pos_y="446" text="China-Town" type="3" width="76">XM</object>
+    <object height="42" id="17" pos_x="510" pos_y="448" text="Chiyka" type="3" width="61">XM</object>
+    <object height="60" id="18" pos_x="407" pos_y="57" text="Какой уровень обслуживания?" type="2" width="96">XM</object>
+    <object height="37" id="25" pos_x="286" pos_y="213" text="Brestol" type="3" width="66">XM</object>
+    <object height="35" id="26" pos_x="614" pos_y="341" text="Zerus" type="3" width="60">XM</object>
+    <object height="39" id="28" pos_x="638" pos_y="451" text="London" type="3" width="64">XM</object>
+    <object height="42" id="29" pos_x="741" pos_y="448" text="Kiev" type="3" width="62">XM</object>
+</resources>
